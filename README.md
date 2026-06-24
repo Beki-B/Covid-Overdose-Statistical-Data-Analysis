@@ -1,4 +1,4 @@
-# Choose Your Own Hypothesis Project: U.S. Drug Overdose Deaths
+# Hypothesis Project: U.S. Drug Overdose Deaths
 
 ## Project Overview
 
